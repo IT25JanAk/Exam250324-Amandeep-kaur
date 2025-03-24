@@ -11,3 +11,5 @@ With the help of this link,i find that the Dir command helps me in easily findin
 [Microsoft.com](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)
 
 This link explaines all this concept with the help of examples and real output images.In this link i see some examples that how can i use dir commands in command prompt;moreover,this link provide examples with systex which make it more useful for any user.
+
+Besides the upword information,this website also give information regarding remarks.In this we find a file with differnt extensions.
