@@ -2,6 +2,8 @@
 
 ## 3 sites that give recommended step to take to solve problem
 
+To be honest, for any kind of information i only rely on the data  microsoft support and microsoft community sites;however, to sovle this problem both these sites are failed to give me the appropriate output.Surpriseingly i find following links that solve my problem.
+
 [Micron crucial](https://www.crucial.com/articles/pc-users/how-to-fix-a-slow-computer)
 
 This link explains the differt ways to troubleshoot the problem in a easy way With the use of steps as well as pictures.In my perspective it is the best site to understand the differnt issues which affect the functioning of a computer.
@@ -9,7 +11,7 @@ This link explains the differt ways to troubleshoot the problem in a easy way Wi
 [computer hope](https://www.computerhope.com/issues/ch000179.htm)
 This URL provide the information regarding diferent reasons for Slow functioning of computer such as Malware.It not only descride how we can speed up our computer with updating drivers but also give information how to set functioning of a Old computer.
 
-[ Youtube video](https://www.youtube.com/watch?v=JYb8OkGtpnE)
+[ Youtube video content](https://www.youtube.com/watch?v=JYb8OkGtpnE)
 The Youtube link give information in detail and explaind it well how to solve the slow fuctioning problem of a computer.I find using a audio-visual mode is more understandable for solving a problem. 
 
 ### List of questions asked to user to Solve a problem:
