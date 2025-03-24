@@ -1,13 +1,13 @@
 # Studing thr DOS Dir Command
 
 DIR is a command in various computer operating systems used for computer file and directory listing.It helps in navigating the file system.
-Following are the links for understanding the DIR command
+## Following are the links for understanding the DIR command
 
 [A computer science portal-GeeksforGeeks](https://www.geeksforgeeks.org/cmd-dir-command/)
 
 It gives information that Dir command is used for listing all files and directires.
-Whit the help of this link,i find that with the Dir coomand i can easily find cuurent files and foldrs in window.For Example=I easily collect  the Directries list of Windows:c
+With the help of this link,i find that the Dir command helps me in easily finding current files and foldrs in window.For Example=I easily collect  the Directries list of Windows:c with the use of DIR command.
 
-[Lifewire](https://www.lifewire.com/dir-command-4050018)
+[Microsoft.com](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)
 
-THis link explaines all this concept with the help of examples and real output images
+This link explaines all this concept with the help of examples and real output images.In this link i see some examples that how can i use dir commands in command prompt;moreover,this link provide examples with systex which make it more useful for any user.
