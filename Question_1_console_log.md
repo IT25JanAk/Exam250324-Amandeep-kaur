@@ -19,20 +19,31 @@ C:\Users\IT25JanAK>echo test six > six.txt
 C:\Users\IT25JanAK>echo test seven > seven.txt
 
 C:\Users\IT25JanAK>dir
+
  Volume in drive C is Windows
+ 
  Volume Serial Number is F014-A809
 
  Directory of C:\Users\IT25JanAK
 
 03/24/2025  01:45 PM    <DIR>          .
+
 03/20/2025  05:48 PM    <DIR>          ..
+
 11/17/2023  11:09 PM    <DIR>          .ms-ad
+
 03/14/2025  03:19 PM    <DIR>          .VirtualBox
 01/28/2025  03:16 PM    <DIR>          class
+
 01/28/2025  02:15 PM    <DIR>          classc
+
 01/21/2025  10:26 AM    <DIR>          Contacts
+
+
 02/12/2025  11:19 AM    <DIR>          Documents
+
 03/19/2025  09:44 AM    <DIR>          Downloads
+
 01/21/2025  10:26 AM    <DIR>          Favorites
 03/24/2025  01:45 PM                12 five.txt
 03/24/2025  01:45 PM                12 four.txt
