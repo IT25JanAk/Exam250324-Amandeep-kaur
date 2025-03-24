@@ -1,4 +1,4 @@
-# Studing thr DOS Dir Command
+# Studying the DOS Dir Command
 
 DIR is a command in various computer operating systems used for computer file and directory listing.It helps in navigating the file system.
 ## Following are the links for understanding the DIR command
