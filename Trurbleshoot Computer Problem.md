@@ -2,7 +2,7 @@
 
 ## 3 sites that give recommended step to take to solve problem
 
-To be honest, for any kind of information i only rely on the data  microsoft support and microsoft community sites;however, to sovle this problem both these sites are failed to give me the appropriate output.Surpriseingly i find following links that solve my problem.
+To be honest, for any kind of information i only rely on the data provided by  microsoft support and microsoft community sites;however, to sovle this problem both these sites are failed to give me the appropriate output.Surpriseingly i find following links that solve my problem.
 
 [Micron crucial](https://www.crucial.com/articles/pc-users/how-to-fix-a-slow-computer)
 
