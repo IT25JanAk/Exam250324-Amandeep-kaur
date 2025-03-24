@@ -6,7 +6,7 @@ DIR is a command in various computer operating systems used for computer file an
 [A computer science portal-GeeksforGeeks](https://www.geeksforgeeks.org/cmd-dir-command/)
 
 It gives information that Dir command is used for listing all files and directires.
-With the help of this link,i find that the Dir command helps me in easily finding current files and foldrs in window.For Example=I easily collect  the Directries list of Windows:c with the use of DIR command.
+With the help of this link,i find that the Dir command helps me in easily finding current files and foldrs in window.For Example=I easily collect  the Directries list of Windows:c with the use of DIR command.A part from that it hels in providing information about list of content of specific directories with output.
 
 [Microsoft.com](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)
 
