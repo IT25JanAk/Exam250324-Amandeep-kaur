@@ -14,7 +14,7 @@ The Youtube link give information in detail and explaind it well how to solve th
 
 ### List of questions asked to user to Solve a problem:
 
-1.Whem you First find this problem of slow runing of computer?
+1.When you First find this problem of slow runing of computer?
 
 2.What you do to Solve this Problem before calling me?
 
